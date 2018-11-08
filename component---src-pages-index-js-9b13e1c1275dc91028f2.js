@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{131:function(n,e,o){"use strict";o.r(e);var t=o(0),r=o.n(t);e.default=function(){return r.a.createElement("h1",null,"should be one repository")}}}]);
-//# sourceMappingURL=component---src-pages-index-js-9b13e1c1275dc91028f2.js.map
