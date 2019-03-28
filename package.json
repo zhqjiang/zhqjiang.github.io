@@ -10,10 +10,11 @@
     "format": "prettier --write src/**/*.{js,jsx}",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "deploy": "gatsby build && gh-pages -d public"
+    "deploy": "gatsby build && gh-pages -d public -b master"
   },
   "dependencies": {
-    "gatsby": "^2.1.31",
+    "gatsby": "^2.3.3",
+    "gatsby-source-filesystem": "^2.0.28",
     "react": "^16.8.4",
     "react-dom": "^16.8.4"
   },
